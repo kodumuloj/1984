@@ -1,4 +1,6 @@
 {
+    "title": "1984",
+    "author": "George Orwell",
     "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
